@@ -1,4 +1,3 @@
 # portfolio
 Link: https://nikhileswarsportfolio.netlify.app/
-
-           : https://nikhil1141.github.io/portfolio/
+Link: https://nikhil1141.github.io/portfolio/
